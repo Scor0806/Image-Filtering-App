@@ -16,7 +16,7 @@ Allows user to upload an image and apply an array of filters to their image. Thi
  ![](app/README_IMAGES/photofilter_gaussianl_c50.png)
  ###  Gaussian Low Frequency Cutoff: 150
  ![](app/README_IMAGES/photofilter_gaussianl_c150.png)
- ###  Ideal Low Frequency Cutoff: 62
+ ###  Ideal High Frequency Cutoff: 62
  ![](app/README_IMAGES/photofilter_idealh_c62.png)
  ###  Ideal Low Frequency Cutoff: 62
  ![](app/README_IMAGES/photofilter_ideall_c62.png)
